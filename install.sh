@@ -2,7 +2,7 @@
 
 set -e
 
-BASEDIR=$HOME/Projects/dotfiles
+BASEDIR=$HOME/Developer/dotfiles
 
 CONFIG="install.conf.yaml"
 DOTBOT_DIR="dotbot"
